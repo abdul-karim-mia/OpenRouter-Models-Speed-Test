@@ -1,0 +1,12 @@
+[
+  { "id": "nvidia/nemotron-3-super-120b-a12b:free",        "label": "Nemotron 3 Super 120B" },
+  { "id": "openai/gpt-oss-120b:free",                      "label": "GPT-OSS 120B" },
+  { "id": "z-ai/glm-4.5-air:free",                         "label": "GLM 4.5 Air" },
+  { "id": "deepseek/deepseek-v4-flash:free",               "label": "DeepSeek V4 Flash" },
+  { "id": "minimax/minimax-m2.5:free",                     "label": "MiniMax M2.5" },
+  { "id": "arcee-ai/trinity-large-thinking:free",          "label": "Trinity Large Thinking" },
+  { "id": "nvidia/nemotron-3-nano-30b-a3b:free",           "label": "Nemotron 3 Nano 30B" },
+  { "id": "baidu/cobuddy:free",                            "label": "CoBuddy" },
+  { "id": "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free", "label": "Nemotron 3 Nano Omni 30B" },
+  { "id": "google/gemma-4-31b-it:free",                    "label": "Gemma 4 31B" }
+]
